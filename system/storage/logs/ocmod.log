@@ -1,0 +1,2182 @@
+2023-10-25 10:15:25 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 10:17:00 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 10:24:21 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 10:25:06 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 10:26:34 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 10:26:35 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:14:30 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:14:50 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:19:07 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:21:23 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:28:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Admin Quick Edit PRO
+
+FILE: system/config/aqep.php
+CODE: <?php
+LINE: 2
+
+FILE: admin/controller/design/layout.php
+CODE: foreach ($extensions as $code)
+LINE: 333
+
+FILE: admin/controller/design/seo_url.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 395
+LINE: 468
+
+FILE: admin/controller/marketing/coupon.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 273
+LINE: 357
+
+FILE: admin/controller/marketing/marketing.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 50
+LINE: 103
+LINE: 158
+LINE: 236
+LINE: 249
+LINE: 377
+LINE: 453
+
+FILE: admin/controller/sale/voucher_theme.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 263
+LINE: 323
+
+FILE: admin/controller/sale/voucher.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 284
+LINE: 374
+
+FILE: admin/controller/sale/return.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 70
+LINE: 143
+LINE: 218
+LINE: 346
+LINE: 530
+LINE: 673
+
+FILE: admin/controller/sale/order.php
+CODE: function getList() {
+LINE: 129
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div id="filter-order"
+LINE: 36
+CODE: <button type="button" data-toggle="tooltip" title="{{ button_filter }}"
+LINE: 8
+REGEX: ~<td class="text-left">{{ order\.(.*)status }}</td>~
+LINE: 132
+CODE: {{ footer }}
+LINE: 308
+
+FILE: admin/controller/customer/customer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 62
+LINE: 127
+LINE: 194
+LINE: 259
+LINE: 367
+LINE: 554
+LINE: 723
+
+FILE: admin/controller/catalog/information.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 337
+
+FILE: admin/controller/catalog/review.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 397
+LINE: 490
+
+FILE: admin/controller/catalog/download.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 331
+
+FILE: admin/controller/catalog/manufacturer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/option.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/attribute_group.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 319
+
+FILE: admin/controller/catalog/attribute.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 267
+LINE: 327
+
+FILE: admin/controller/catalog/filter.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/recurring.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 165
+LINE: 213
+LINE: 309
+LINE: 363
+
+FILE: admin/controller/catalog/category.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 163
+LINE: 211
+LINE: 308
+LINE: 380
+
+FILE: admin/controller/catalog/product.php
+CODE: $url .= '&filter_name=' . urlencode(html_entity_decode($this->request->get['filter_name'], ENT_QUOTES, 'UTF-8'));
+LINE: 41
+LINE: 105
+LINE: 171
+LINE: 237
+LINE: 338
+LINE: 470
+LINE: 521
+LINE: 622
+REGEX: ~\$url \.= '&(.*?)=' \. \$this->request->get\['(.*?)'\];~
+LINE: 50
+LINE: 54
+LINE: 58
+LINE: 62
+LINE: 66
+LINE: 70
+LINE: 114
+LINE: 118
+LINE: 122
+LINE: 126
+LINE: 130
+LINE: 134
+LINE: 180
+LINE: 184
+LINE: 188
+LINE: 192
+LINE: 196
+LINE: 200
+LINE: 246
+LINE: 250
+LINE: 254
+LINE: 258
+LINE: 262
+LINE: 266
+LINE: 347
+LINE: 351
+LINE: 355
+LINE: 359
+LINE: 363
+LINE: 479
+LINE: 483
+LINE: 487
+LINE: 497
+LINE: 530
+LINE: 534
+LINE: 538
+LINE: 542
+LINE: 546
+LINE: 631
+LINE: 635
+LINE: 639
+LINE: 643
+LINE: 647
+LINE: 651
+
+FILE: admin/view/template/catalog/product_list.twig
+REGEX: ~location = 'index\.php\?route=(.*?)&user_token={{ user_token }}' \+ url;~
+LINE: 232
+
+FILE: admin/view/template/catalog/attribute_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/attribute_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/category_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/download_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/filter_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/information_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/manufacturer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/option_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) admin/view/template/catalog/product_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 145
+
+FILE: admin/view/template/catalog/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 37
+
+FILE: admin/view/template/catalog/review_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 83
+
+FILE: admin/view/template/customer/custom_field_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_approval_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/customer/customer_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 101
+
+FILE: (sub modification) admin/view/template/sale/order_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 108
+
+FILE: admin/view/template/sale/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/sale/return_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 100
+
+FILE: admin/view/template/sale/voucher_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 38
+
+FILE: admin/view/template/sale/voucher_theme_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) system/engine/action.php
+CODE: <= count($args)
+LINE: 77
+
+FILE: system/library/db/mysqli.php
+CODE: SET SQL_MODE = ''
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: (sub modification) system/library/template/twig.php
+CODE: $template = $this->twig->loadTemplate($template
+NOT FOUND - OPERATION SKIPPED!
+CODE: return $twig->render($filename
+LINE: 43
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:32:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Admin Quick Edit PRO
+
+FILE: system/config/aqep.php
+CODE: <?php
+LINE: 2
+
+FILE: admin/controller/design/layout.php
+CODE: foreach ($extensions as $code)
+LINE: 333
+
+FILE: admin/controller/design/seo_url.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 395
+LINE: 468
+
+FILE: admin/controller/marketing/coupon.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 273
+LINE: 357
+
+FILE: admin/controller/marketing/marketing.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 50
+LINE: 103
+LINE: 158
+LINE: 236
+LINE: 249
+LINE: 377
+LINE: 453
+
+FILE: admin/controller/sale/voucher_theme.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 263
+LINE: 323
+
+FILE: admin/controller/sale/voucher.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 284
+LINE: 374
+
+FILE: admin/controller/sale/return.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 70
+LINE: 143
+LINE: 218
+LINE: 346
+LINE: 530
+LINE: 673
+
+FILE: admin/controller/sale/order.php
+CODE: function getList() {
+LINE: 129
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div id="filter-order"
+LINE: 36
+CODE: <button type="button" data-toggle="tooltip" title="{{ button_filter }}"
+LINE: 8
+REGEX: ~<td class="text-left">{{ order\.(.*)status }}</td>~
+LINE: 132
+CODE: {{ footer }}
+LINE: 308
+
+FILE: admin/controller/customer/customer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 62
+LINE: 127
+LINE: 194
+LINE: 259
+LINE: 367
+LINE: 554
+LINE: 723
+
+FILE: admin/controller/catalog/information.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 337
+
+FILE: admin/controller/catalog/review.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 397
+LINE: 490
+
+FILE: admin/controller/catalog/download.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 331
+
+FILE: admin/controller/catalog/manufacturer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/option.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/attribute_group.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 319
+
+FILE: admin/controller/catalog/attribute.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 267
+LINE: 327
+
+FILE: admin/controller/catalog/filter.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/recurring.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 165
+LINE: 213
+LINE: 309
+LINE: 363
+
+FILE: admin/controller/catalog/category.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 163
+LINE: 211
+LINE: 308
+LINE: 380
+
+FILE: admin/controller/catalog/product.php
+CODE: $url .= '&filter_name=' . urlencode(html_entity_decode($this->request->get['filter_name'], ENT_QUOTES, 'UTF-8'));
+LINE: 41
+LINE: 105
+LINE: 171
+LINE: 237
+LINE: 338
+LINE: 470
+LINE: 521
+LINE: 622
+REGEX: ~\$url \.= '&(.*?)=' \. \$this->request->get\['(.*?)'\];~
+LINE: 50
+LINE: 54
+LINE: 58
+LINE: 62
+LINE: 66
+LINE: 70
+LINE: 114
+LINE: 118
+LINE: 122
+LINE: 126
+LINE: 130
+LINE: 134
+LINE: 180
+LINE: 184
+LINE: 188
+LINE: 192
+LINE: 196
+LINE: 200
+LINE: 246
+LINE: 250
+LINE: 254
+LINE: 258
+LINE: 262
+LINE: 266
+LINE: 347
+LINE: 351
+LINE: 355
+LINE: 359
+LINE: 363
+LINE: 479
+LINE: 483
+LINE: 487
+LINE: 497
+LINE: 530
+LINE: 534
+LINE: 538
+LINE: 542
+LINE: 546
+LINE: 631
+LINE: 635
+LINE: 639
+LINE: 643
+LINE: 647
+LINE: 651
+
+FILE: admin/view/template/catalog/product_list.twig
+REGEX: ~location = 'index\.php\?route=(.*?)&user_token={{ user_token }}' \+ url;~
+LINE: 232
+
+FILE: admin/view/template/catalog/attribute_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/attribute_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/category_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/download_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/filter_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/information_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/manufacturer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/option_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) admin/view/template/catalog/product_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 145
+
+FILE: admin/view/template/catalog/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 37
+
+FILE: admin/view/template/catalog/review_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 83
+
+FILE: admin/view/template/customer/custom_field_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_approval_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/customer/customer_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 101
+
+FILE: (sub modification) admin/view/template/sale/order_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 108
+
+FILE: admin/view/template/sale/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/sale/return_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 100
+
+FILE: admin/view/template/sale/voucher_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 38
+
+FILE: admin/view/template/sale/voucher_theme_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) system/engine/action.php
+CODE: <= count($args)
+LINE: 77
+
+FILE: system/library/db/mysqli.php
+CODE: SET SQL_MODE = ''
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: (sub modification) system/library/template/twig.php
+CODE: $template = $this->twig->loadTemplate($template
+NOT FOUND - OPERATION SKIPPED!
+CODE: return $twig->render($filename
+LINE: 43
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+2023-10-25 13:41:26 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: if (is_file($file)) {
+LINE: 13
+----------------------------------------------------------------
+MOD: Admin Quick Edit PRO
+
+FILE: system/config/aqep.php
+CODE: <?php
+LINE: 2
+
+FILE: admin/controller/design/layout.php
+CODE: foreach ($extensions as $code)
+LINE: 333
+
+FILE: admin/controller/design/seo_url.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 395
+LINE: 468
+
+FILE: admin/controller/marketing/coupon.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 273
+LINE: 357
+
+FILE: admin/controller/marketing/marketing.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 50
+LINE: 103
+LINE: 158
+LINE: 236
+LINE: 249
+LINE: 377
+LINE: 453
+
+FILE: admin/controller/sale/voucher_theme.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 263
+LINE: 323
+
+FILE: admin/controller/sale/voucher.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 284
+LINE: 374
+
+FILE: admin/controller/sale/return.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 70
+LINE: 143
+LINE: 218
+LINE: 346
+LINE: 530
+LINE: 673
+
+FILE: admin/controller/sale/order.php
+CODE: function getList() {
+LINE: 129
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div id="filter-order"
+LINE: 36
+CODE: <button type="button" data-toggle="tooltip" title="{{ button_filter }}"
+LINE: 8
+REGEX: ~<td class="text-left">{{ order\.(.*)status }}</td>~
+LINE: 132
+CODE: {{ footer }}
+LINE: 308
+
+FILE: admin/controller/customer/customer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 62
+LINE: 127
+LINE: 194
+LINE: 259
+LINE: 367
+LINE: 554
+LINE: 723
+
+FILE: admin/controller/catalog/information.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 337
+
+FILE: admin/controller/catalog/review.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 54
+LINE: 111
+LINE: 170
+LINE: 258
+LINE: 397
+LINE: 490
+
+FILE: admin/controller/catalog/download.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 331
+
+FILE: admin/controller/catalog/manufacturer.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/option.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/attribute_group.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 319
+
+FILE: admin/controller/catalog/attribute.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 267
+LINE: 327
+
+FILE: admin/controller/catalog/filter.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 170
+LINE: 265
+LINE: 325
+
+FILE: admin/controller/catalog/recurring.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 165
+LINE: 213
+LINE: 309
+LINE: 363
+
+FILE: admin/controller/catalog/category.php
+CODE: $url .= '&sort=' . $this->request->get['sort'];
+LINE: 38
+LINE: 79
+LINE: 122
+LINE: 163
+LINE: 211
+LINE: 308
+LINE: 380
+
+FILE: admin/controller/catalog/product.php
+CODE: $url .= '&filter_name=' . urlencode(html_entity_decode($this->request->get['filter_name'], ENT_QUOTES, 'UTF-8'));
+LINE: 41
+LINE: 105
+LINE: 171
+LINE: 237
+LINE: 338
+LINE: 470
+LINE: 521
+LINE: 622
+REGEX: ~\$url \.= '&(.*?)=' \. \$this->request->get\['(.*?)'\];~
+LINE: 50
+LINE: 54
+LINE: 58
+LINE: 62
+LINE: 66
+LINE: 70
+LINE: 114
+LINE: 118
+LINE: 122
+LINE: 126
+LINE: 130
+LINE: 134
+LINE: 180
+LINE: 184
+LINE: 188
+LINE: 192
+LINE: 196
+LINE: 200
+LINE: 246
+LINE: 250
+LINE: 254
+LINE: 258
+LINE: 262
+LINE: 266
+LINE: 347
+LINE: 351
+LINE: 355
+LINE: 359
+LINE: 363
+LINE: 479
+LINE: 483
+LINE: 487
+LINE: 497
+LINE: 530
+LINE: 534
+LINE: 538
+LINE: 542
+LINE: 546
+LINE: 631
+LINE: 635
+LINE: 639
+LINE: 643
+LINE: 647
+LINE: 651
+
+FILE: admin/view/template/catalog/product_list.twig
+REGEX: ~location = 'index\.php\?route=(.*?)&user_token={{ user_token }}' \+ url;~
+LINE: 232
+
+FILE: admin/view/template/catalog/attribute_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/attribute_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/category_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/download_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/filter_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/information_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/manufacturer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/catalog/option_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) admin/view/template/catalog/product_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 145
+
+FILE: admin/view/template/catalog/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 37
+
+FILE: admin/view/template/catalog/review_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 83
+
+FILE: admin/view/template/customer/custom_field_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_approval_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/customer/customer_group_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: admin/view/template/customer/customer_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 101
+
+FILE: (sub modification) admin/view/template/sale/order_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 108
+
+FILE: admin/view/template/sale/recurring_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: admin/view/template/sale/return_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 100
+
+FILE: admin/view/template/sale/voucher_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 38
+
+FILE: admin/view/template/sale/voucher_theme_list.twig
+CODE: <input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" />
+LINE: 36
+
+FILE: (sub modification) system/engine/action.php
+CODE: <= count($args)
+LINE: 77
+
+FILE: system/library/db/mysqli.php
+CODE: SET SQL_MODE = ''
+NOT FOUND - OPERATION SKIPPED!
+
+FILE: (sub modification) system/library/template/twig.php
+CODE: $template = $this->twig->loadTemplate($template
+NOT FOUND - OPERATION SKIPPED!
+CODE: return $twig->render($filename
+LINE: 43
+----------------------------------------------------------------
+MOD: Modification Manager
+
+FILE: admin/language/en-gb/marketplace/modification.php
+CODE: <?php
+LINE: 27
+
+FILE: admin/controller/marketplace/modification.php
+CODE: $this->load->model('setting/modification');
+LINE: 16
+LINE: 28
+LINE: 64
+LINE: 464
+LINE: 533
+LINE: 567
+LINE: 601
+CODE: $this->model_setting_modification->
+LINE: 32
+LINE: 131
+LINE: 536
+LINE: 570
+LINE: 688
+LINE: 690
+CODE: $this->getList();
+LINE: 21
+LINE: 60
+LINE: 463
+LINE: 535
+LINE: 572
+LINE: 609
+LINE: 648
+CODE: $results = $this->model_extension_module_modification_manager->getModifications();
+LINE: 137
+CODE: $sort = 'name';
+LINE: 659
+CODE: $order = 'ASC';
+LINE: 665
+CODE: $handle = fopen(DIR_LOGS . 'ocmod.log', 'w+');
+LINE: 628
+CODE: $maintenance = $this->config->get('config_maintenance');
+LINE: 101
+CODE: $data['breadcrumbs'] = array();
+LINE: 755
+CODE: $data['sort_name'] =
+LINE: 846
+CODE: $filter_data = array(
+LINE: 776
+CODE: $modification_total = $this->model_extension_module_modification_manager->getTotalModifications();
+LINE: 783
+CODE: $data['modifications'][] = array(
+LINE: 790
+CODE: $pagination = new Pagination();
+LINE: 878
+CODE: $data['clear_log'] =
+LINE: 776
+CODE: $this->load->view('marketplace/modification'
+LINE: 942
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: $this->response->redirect($this->url->link(!empty($data['redirect']) ? $data['redirect'] : 'marketplace/modification'
+LINE: 498
+CODE: if ($this->validate()) {
+LINE: 97
+CODE: $log[] = 'MOD:
+LINE: 215
+CODE: $operations = $file->getElementsByTagName('operation');
+LINE: 230
+CODE: $files = glob($path, GLOB_BRACE);
+LINE: 259
+CODE: if (!$status) {
+LINE: 452
+CODE: $ocmod->write(implode("\n", $log));
+LINE: 491
+CODE: protected function validate(
+LINE: 1525
+----------------------------------------------------------------
+MOD: Opencart SHOPPING CART REST API
+
+FILE: admin/model/setting/setting.php
+CODE: class ModelSettingSetting extends Model {
+LINE: 9
+
+FILE: catalog/model/account/customer.php
+CODE: class ModelAccountCustomer extends Model {
+LINE: 129
+
+FILE: catalog/model/account/order.php
+CODE: class ModelAccountOrder extends Model {
+LINE: 283
+
+FILE: catalog/model/catalog/product.php
+CODE: class ModelCatalogProduct extends Model {
+LINE: 1016
+
+FILE: catalog/model/catalog/category.php
+CODE: public function getCategory($category_id) {
+LINE: 59
+
+FILE: system/library/cart/currency.php
+CODE: public function has($currency) {
+LINE: 126
+----------------------------------------------------------------
+MOD: Opencart Shopping Cart REST API - Login with phone number
+
+FILE: system/library/cart/customer.php
+CODE: $customer_query = $this->db->query("SELECT * FROM " . DB_PREFIX . "customer WHERE LOWER(email) = '" . $this->db->escape(utf8_strtolower($email)) . "' AND status = '1'");
+LINE: 51
+CODE: $customer_query = $this->db->query("SELECT * FROM " . DB_PREFIX . "customer WHERE LOWER(email) = '" . $this->db->escape(utf8_strtolower($email)) . "' AND (password = SHA1(CONCAT(salt, SHA1(CONCAT(salt, SHA1('" . $this->db->escape($password) . "'))))) OR password = '" . $this->db->escape(md5($password)) . "') AND status = '1'");
+LINE: 55
+
+FILE: catalog/controller/rest/login.php
+CODE: $email = $post['email'];
+LINE: 43
+----------------------------------------------------------------
